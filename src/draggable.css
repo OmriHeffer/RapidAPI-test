@@ -1,0 +1,17 @@
+.draggable {
+  position: absolute;
+  cursor: move;
+  background: none; }
+  .draggable h1 {
+    margin: 0; }
+
+.dragging {
+  cursor: move; }
+
+.userDrag {
+  top: 50%;
+  left: 33%; }
+
+.picDrag {
+  top: 50%;
+  left: 66%; }

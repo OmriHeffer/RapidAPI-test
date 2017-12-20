@@ -1,0 +1,17 @@
+$font-stack: Helvetica, sans-serif;
+$main-color: lightgray;
+
+#root {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(to bottom right, rgb(83, 46, 90), rgb(41, 51, 86));
+  font-family: $font-stack;
+  color: $main-color;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
